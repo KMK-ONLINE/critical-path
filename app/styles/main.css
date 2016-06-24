@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+  padding: 0px 10px 10px;
+  min-width: 10rem;
+}
+
+dl { }
+
+dt,
+dd {
+  float: left;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+dt {
+  width: 75%;
+}
+
+dd {
+  width: 25%;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
